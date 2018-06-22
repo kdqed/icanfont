@@ -1,0 +1,29 @@
+font:
+    svg:        font/example-font.svg
+    ttf:        font/example-font.ttf
+    eot:        font/example-font.eot
+    woff:       font/example-font.woff
+    css:        font/example-font.css
+    html:       font/example-font.html
+    name:       example
+    prefix:     example
+    fixedwidth: true
+    height:     1000
+    descent:    150
+    normalize:  true
+    center:     true
+    round:      10e12
+glyphs:
+    - glyph:    glyphs-stroketopath/a.svg
+      name:     lowercase-a
+      code:     0x0061
+    - glyph:    glyphs-stroketopath/b.svg
+      name:     lowercase-b
+      code:     0x0062
+    - glyph:    glyphs-stroketopath/c.svg
+      name:     lowercase-c
+      code:     0x0063
+    - glyph:    glyphs-stroketopath/d.svg
+      name:     lowercase-d
+      code:     0x0064
+
